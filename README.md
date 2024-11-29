@@ -6,7 +6,7 @@ Whiteboard Diagram: https://app.eraser.io/workspace/0f8XnDF61iGcatypPqIR?origin=
 
 - Node.JS
 - Redis
-- Docker:
+- Docker
 - Docker with AWS ECS and ECR
 
 ### Setup Guide
